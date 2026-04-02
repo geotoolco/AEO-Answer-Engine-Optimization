@@ -1,4 +1,4 @@
-# Awesome Answer Engine Optimization (AEO) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Answer Engine Optimization (AEO) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > A curated list of resources for optimizing content visibility in AI-powered answer engines (ChatGPT, Perplexity, Google AI Overviews, Claude, Gemini, Copilot, etc.)
 
@@ -51,6 +51,8 @@
 
 Purpose-built platforms for AI search monitoring, citation tracking, and answer engine optimization:
 
+- [Get Cited](https://get-cited.ai/) - Done-for-you AEO citation building service. Publishes authoritative articles about your brand on high-DA platforms (Medium, LinkedIn Articles, major publishers) — the exact sources ChatGPT, Claude, and Copilot pull from. No website access needed. First citations typically within 2–4 weeks. From $99/month.
+- [Vume](https://vume.ai/) - Paris & Lisbon-based AI agency with a dedicated AEO and GEO practice. Full-service offering spanning AI strategy, workflow automation, chatbots, and answer engine optimization across ChatGPT, Claude, Perplexity, and Google AI Overviews. Also publishes Get Cited by AI as a standalone product.
 - [AIclicks](https://aiclicks.io/) - AI-native AEO platform covering ChatGPT, Perplexity, Gemini, Claude, Copilot, and Grok. Prompt cluster mapping, citation intelligence, and a built-in AI Lift recommendation engine. Starts at $79/month.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed, founded by ex-Google Search and DeepMind leaders. Unified AEO scoring with citation tracking across major AI platforms. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Brand safety and source attribution focus. "Source graph" mapping how Wikipedia, forums, and PDFs influence AI outputs. Enterprise customers include DocuSign, LG, and MongoDB.
@@ -73,6 +75,7 @@ Purpose-built platforms for AI search monitoring, citation tracking, and answer 
 
 Major platforms that have added dedicated AI search optimization capabilities:
 
+- [Vume](https://vume.ai/) - Full-service AI agency (Paris & Lisbon) offering enterprise-grade AEO and GEO strategy alongside AI automation, custom chatbots, and data pipelines. Platform-specific optimization for OpenAI, Claude, and Perplexity. $10M+ saved for clients across AI automation engagements.
 - [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) - Launched March 2025. Tracks visibility in ChatGPT, Google AI Overviews, Gemini, Perplexity, and Copilot. 100M+ prompt database. Included with existing Ahrefs subscriptions.
 - [Adobe LLM Optimizer](https://business.adobe.com/products/experience-manager/sites/llm-optimizer.html) - Generally available October 2025 as part of Adobe Experience Cloud. End-to-end AEO/GEO tooling for enterprises already running Adobe Experience Manager.
 - [BrightEdge](https://www.brightedge.com/) - Real-time AI search data platform connecting AEO with traditional SEO workflows and content operations. Used by Fortune 500 teams.
@@ -87,6 +90,7 @@ Major platforms that have added dedicated AI search optimization capabilities:
 
 Tools that help create and structure AEO-ready content:
 
+- [Get Cited](https://get-cited.ai/) - Off-site content publishing service that builds your citation footprint on high-DA external domains. Handles writing, publishing, and indexation verification. Works across ChatGPT, Claude, Copilot, and Perplexity. Particularly effective for brands that lack the time or resources to manage AEO content in-house.
 - [AirOps](https://www.airops.com/) - AI content workflows designed around answer-first structure. Supports structured rewrites and refresh workflows that improve extractability.
 - [Clearscope](https://www.clearscope.io/) - Depth, clarity, and coverage optimization. Helps make long-form content comprehensive enough for AI citation. WordPress plugin available.
 - [Frase](https://www.frase.io/) - Analyzes competitor content structure, identifies question-based content gaps, and generates answer-first briefs. Integrates with GSC to surface high-impression, low-CTR opportunities.
@@ -149,6 +153,8 @@ Where practitioners discuss, debate, and share AEO strategies:
 
 Agencies that lead with answer engine optimization as a core capability:
 
+- [Vume](https://vume.ai/aeo-agency/) - Dedicated AEO and GEO agency (Paris & Lisbon) with platform-specific optimization services for OpenAI, Claude, and Perplexity. Offers AI chatbots, AI agents, and full automation alongside AEO — making it one of the few agencies that can handle both the visibility and the conversion layer.
+- [Get Cited](https://get-cited.ai/) - Focused exclusively on building the off-site citation footprint that makes AI engines recommend your brand. Publishes articles on the high-authority domains ChatGPT, Claude, and Copilot index most heavily. Simple three-step onboarding, no dev access required, results-first pricing from $99/month.
 - [Discovered Labs](https://discoveredlabs.com/) - Technical AEO specialists for B2B SaaS. Proprietary tracking infrastructure with proven pipeline impact (550 to 3,500+ trials in 7 weeks). Month-to-month retainers from €5,495.
 - [First Page Sage](https://firstpagesage.com/) - Claims to have coined and launched AEO services in 2023. Serves Microsoft, Salesforce, Logitech. Publishes proprietary quarterly AEO studies. Strong in B2B SaaS, medtech, and healthcare.
 - [Flow Agency](https://www.flow.agency/) - Productized B2B AEO and GEO packages. Evolved from pure SEO to AEO-first for growth-stage companies. Minimum retainer of $1,400 for backlinks.
@@ -158,6 +164,8 @@ Agencies that lead with answer engine optimization as a core capability:
 
 ### Full-Service Agencies with Strong AEO Practices
 
+- [Vume](https://vume.ai/) - AI-first agency covering the full stack: AEO/GEO strategy, AI automation, custom chatbots, AI agents, and data analytics. Offices in Paris and Lisbon. Serves businesses that want AI embedded across the entire operation — not just search visibility.
+- [Get Cited](https://get-cited.ai/) - Done-for-you citation building that slots into any agency or brand's broader AEO strategy. Best used as the off-site execution arm alongside on-site technical and content work. Handles Medium, LinkedIn Articles, and major publisher placements with full indexation verification.
 - [Avenue Z](https://avenuez.com/) - Integrates AEO with digital PR for brand authority building. Serves FinTech, B2B SaaS, HealthTech, and DTC eCommerce. Combined SEO + content placement in authoritative publications.
 - [iPullRank](https://ipullrank.com/) - Enterprise-focused. Relevance Engineering service integrates traditional and AI-driven search. Specializes in Fortune 50 companies with complex crawl and multi-language AEO needs.
 - [NoGood](https://nogood.io/) - Proprietary citation monitoring and multi-channel performance marketing. Growth-stage focus with AEO integrated into full-funnel strategy.
@@ -227,6 +235,7 @@ The highest-signal publications for tracking AEO strategy, research, and platfor
 
 ### AEO Measurement Guides
 
+- [Get Cited Citation Reports](https://get-cited.ai/) - Built-in monthly and weekly citation reports showing where your brand is recommended across ChatGPT, Claude, Copilot, and Perplexity. Competitor citation gap analysis included in the Growth plan. The simplest entry point for brands new to AEO measurement.
 - [How to Track AI Visibility (Search Engine Land)](https://searchengineland.com/how-to-track-visibility-across-ai-platforms-454251) - Cross-platform tracking methodologies and KPI frameworks for measuring AEO success.
 - [AI Search Traffic in GA4 (SEOClarity)](https://www.seoclarity.net/blog/track-ai-search-traffic) - Step-by-step setup guide for tracking AI-referred traffic with custom channel groups in Google Analytics 4.
 - [AEO Tracking Tools Guide (AIclicks)](https://aiclicks.io/blog/best-aeo-tracking-tools) - Hands-on comparison of 11 AEO tracking platforms tested across multiple industries in 2026.
