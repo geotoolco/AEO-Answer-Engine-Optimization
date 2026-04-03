@@ -1,8 +1,41 @@
 # Answer Engine Optimization (AEO) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of resources for optimizing content visibility in AI-powered answer engines (ChatGPT, Perplexity, Google AI Overviews, Claude, Gemini, Copilot, etc.)
+## 🤖 What is AEO?
 
-**Also known as**: Generative Engine Optimization (GEO), AI Search Optimization (AISO), Large Language Model Optimization (LLMO), AI SEO, LLM SEO, AIO (AI Optimization)
+In this repository, I'm going to share a curated collection of resources on **Answer Engine Optimization (AEO)**. AEO is closely related to **Generative Engine Optimization (GEO)**, also referred to as **AI Search Optimization**.
+
+In short, it is the practice of optimizing your brand, website, or content so that **AI engines recommend it** when users ask for a product, service, or company.
+
+To achieve visibility in AI-generated responses, you need a combination of:
+
+- ✅ Strategies & techniques
+- ✅ Technical implementations
+- ✅ The right tools and platforms
+
+---
+
+## 📦 What's Inside
+
+| Category | Description |
+|---|---|
+| 📚 **Guides & Tutorials** | Understand and apply AEO/GEO best practices |
+| 🏗️ **Platforms, Solutions & Services** | Implement AEO at scale |
+| 🛠️ **Tools** | Analysis, monitoring, and optimization |
+| 🔌 **Chrome Extensions & WordPress Plugins** | Day-to-day workflow utilities |
+| 👥 **Communities & Agencies** | Specialists and forums focused on AI search visibility |
+| 📖 **Reference Material** | Further reading to deepen your understanding |
+
+---
+
+## 🚀 Who Is This For?
+
+Whether you're just getting started or looking to refine your approach, this repository aims to be your **go-to reference** for improving your visibility across AI engines.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open a **Pull Request** to suggest new resources, or open an **Issue** to report outdated links.
 
 ---
 
