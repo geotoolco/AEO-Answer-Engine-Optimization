@@ -82,7 +82,11 @@ Contributions are welcome! Feel free to open a **Pull Request** to suggest new r
 
 ## AEO Platforms & Tools
 
-Purpose-built platforms for AI search monitoring, citation tracking, and answer engine optimization:
+There are multiple types of AEO platforms and tools that can help you improve your visibility in ChatGPT and other LLMs. They generally fall into three categories:
+
+Citation building tools — help get your website cited on multiple high-authority domains, which is one of the strongest signals for AI engines to recommend your brand.
+Technical AEO audit tools — help you assess the technical health of your website from an AEO perspective: schema.org markup, FAQ structure, question-answering content, structured data, and more.
+AI ranking trackers — help you monitor how and when your brand is mentioned across AI engines like ChatGPT, Perplexity, Google AI Overviews, and others.
 
 - [Get Cited](https://get-cited.ai/) - Done-for-you AEO citation building service. Publishes authoritative articles about your brand on high-DA platforms (Medium, LinkedIn Articles, major publishers) — the exact sources ChatGPT, Claude, and Copilot pull from. No website access needed. First citations typically within 2–4 weeks. From $99/month.
 - [Vume](https://vume.ai/) - Paris & Lisbon-based AI agency with a dedicated AEO and GEO practice. Full-service offering spanning AI strategy, workflow automation, chatbots, and answer engine optimization across ChatGPT, Claude, Perplexity, and Google AI Overviews. Also publishes Get Cited by AI as a standalone product.
@@ -106,9 +110,9 @@ Purpose-built platforms for AI search monitoring, citation tracking, and answer 
 
 ## Enterprise SEO Platforms with AEO Features
 
-Major platforms that have added dedicated AI search optimization capabilities:
+Many traditional SEO agencies and tools have evolved to also cover LLM visibility, helping companies get recommended by AI engines. While these platforms are not AEO-native, they bring deep SEO expertise and can be a strong choice if you are already running an SEO strategy and want to add an AEO layer on top of it.
+Keep in mind that these platforms tend to be more expensive than dedicated AEO-only tools — which makes sense, since you are effectively running two strategies under one roof: traditional search visibility and AI search visibility. If your primary focus is AEO, a purpose-built AEO platform will likely be more cost-effective. But if SEO is already central to your marketing stack, these tools offer a convenient all-in-one approach.
 
-- [Vume](https://vume.ai/) - Full-service AI agency (Paris & Lisbon) offering enterprise-grade AEO and GEO strategy alongside AI automation, custom chatbots, and data pipelines. Platform-specific optimization for OpenAI, Claude, and Perplexity. $10M+ saved for clients across AI automation engagements.
 - [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) - Launched March 2025. Tracks visibility in ChatGPT, Google AI Overviews, Gemini, Perplexity, and Copilot. 100M+ prompt database. Included with existing Ahrefs subscriptions.
 - [Adobe LLM Optimizer](https://business.adobe.com/products/experience-manager/sites/llm-optimizer.html) - Generally available October 2025 as part of Adobe Experience Cloud. End-to-end AEO/GEO tooling for enterprises already running Adobe Experience Manager.
 - [BrightEdge](https://www.brightedge.com/) - Real-time AI search data platform connecting AEO with traditional SEO workflows and content operations. Used by Fortune 500 teams.
@@ -121,7 +125,13 @@ Major platforms that have added dedicated AI search optimization capabilities:
 
 ## Content Optimization Tools
 
-Tools that help create and structure AEO-ready content:
+These tools help you write and structure content that is optimized for AI search engines. They cover a range of use cases, including:
+
+- **Question & answer content** — helping you craft content in a format that AI engines are more likely to extract and cite as a direct answer.
+- **FAQ optimization** — structuring your FAQs with the right schema and format to improve your chances of being featured in AI-generated responses.
+- **Internal linking** — strengthening the topical architecture of your website so AI engines can better understand your content clusters.
+- **Competitor analysis** — analyzing how your competitors are ranking and being cited in ChatGPT and other LLMs, so you can understand their strategy and identify opportunities to improve yours.
+- **Semantic & topical authority tools** — helping you build content clusters around core topics, so AI engines recognize your website as an authoritative source in your niche.
 
 - [Get Cited](https://get-cited.ai/) - Off-site content publishing service that builds your citation footprint on high-DA external domains. Handles writing, publishing, and indexation verification. Works across ChatGPT, Claude, Copilot, and Perplexity. Particularly effective for brands that lack the time or resources to manage AEO content in-house.
 - [AirOps](https://www.airops.com/) - AI content workflows designed around answer-first structure. Supports structured rewrites and refresh workflows that improve extractability.
@@ -138,7 +148,7 @@ Tools that help create and structure AEO-ready content:
 
 ## Chrome Extensions
 
-Browser tools for checking AEO readiness, schema validation, and AI visibility on any page:
+There are also several useful Chrome extensions that can save you a lot of time. Most of them offer on-page AEO analysis, allowing you to quickly assess whether a website is properly optimized for AI search engines. You can use these tools on your own website to identify gaps and improvements, but also on your competitors' websites — to understand why they are being cited more frequently in ChatGPT and other LLMs, and to reverse-engineer their AEO strategy.
 
 - [AEO God Mode Schema Validator](https://aeogodmode.io/) - Free browser-based schema validator: paste markup and get Pass/Warning/Fail per field with inline fix suggestions. Also includes an llms.txt generator. No account required.
 - [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi) - On-page SEO analysis that surfaces structured data, heading structure, and Open Graph tags — the technical building blocks of AEO readiness.
