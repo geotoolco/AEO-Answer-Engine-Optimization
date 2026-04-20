@@ -31,6 +31,7 @@ Covers ChatGPT, Perplexity, Gemini, Claude, Copilot, and Grok. Prompt cluster ma
 | [Peec.ai](https://peec.ai/) | Multi-engine tracking, regional data, multi-user | From €89/mo |
 | [Rank Prompt](https://rankprompt.io/) | Prompt-level tracking, agency multi-client management | From $49/mo |
 | [Scrunch](https://scrunch.com/) | Serves AI-optimized content at CDN layer, SOC 2 certified | From $250/mo |
+| [SEO for AI](https://getseoforai.com/) | Small-business AEO audits; free citation checker + $197 full report | From $197 |
 | [Akii](https://akii.com/) | Knowledge graph-first, AI Visibility Monitor | — |
 | [AEO Vision](https://aeo.vision/) | Broad engine coverage, real-time brand perception | — |
 | [ZipTie](https://ziptie.ai/) | Brand visibility breakdowns by platform and prompt | — |
